@@ -36,7 +36,12 @@ figcaption{
   background-color: aqua;
 }
 
+/*descendent selector*/
+
 #logo h1{
   font-family: "Clicker Sript", cursive;
 }
-/*descendent selector*/
+
+#logo h2{
+  font-family: "Elsie swatch caps", cursive;
+}
