@@ -36,4 +36,7 @@ figcaption{
   background-color: aqua;
 }
 
+#logo h1{
+  font-family: "Clicker Sript", cursive;
+}
 /*descendent selector*/
