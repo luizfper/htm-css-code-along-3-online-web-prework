@@ -1,0 +1,13 @@
+/* This is a comment */
+
+/*CSS Syntax
+
+selector {
+property: value;
+}
+type selector, i.e p{}
+*/
+p{
+  font-size: 16px;
+  line-height: 1.5em;
+}
