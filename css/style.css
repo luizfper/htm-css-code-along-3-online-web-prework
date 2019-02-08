@@ -33,5 +33,7 @@ figcaption{
 /* ID selector*/
 
 #logo{
-  background-color: blue;
+  background-color: aqua;
 }
+
+/*descendent selector*/
